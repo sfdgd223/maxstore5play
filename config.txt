@@ -1,0 +1,6 @@
+﻿token=NTE3MDE2Nzk4ODM1NjM4Mjky.Dt8GuQ.umAl4ui7lVbA1SEbvidsVHtgYLY
+owner=509719956473249802
+prefix= G
+game= Gplay
+stayinchannel=true
+songinstatus=true 
